@@ -1,0 +1,25 @@
+def main():
+    Thelist = []
+	vatlist = []
+    user = int(input ('Enter your sales figure(enter -1 to finish): '))
+	vat = user * .23
+	def fuction addVAT
+		vat = user * .23
+
+    while (user != '-1'):
+        Thelist.append(user)
+        user = int(input("Enter your sales figure(enter -1 to finish): "))
+		
+	
+
+    i=0
+    while(i<len(Thelist)):
+        print(Thelist[i])
+        i+=1
+		
+	for (vat in range[]):
+		vat = vat * .23
+		print(vat)
+
+	
+main()
